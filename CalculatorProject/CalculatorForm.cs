@@ -121,10 +121,6 @@ namespace CalculatorProject
 
         }
 
-
-        private void inputBox1KeyPress()
-        {
-
-        }
+        
     }
 }
