@@ -7,3 +7,12 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorProject\Calculat
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
+D:\smurkar\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.exe
+D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.pdb
+D:\smurkar\CalculatorProject\bin\Debug\CalculatorProject.exe
+D:\smurkar\CalculatorProject\bin\Debug\CalculatorProject.pdb
+D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.csprojResolveAssemblyReference.cache
+D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.CalculatorForm.resources
+D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
