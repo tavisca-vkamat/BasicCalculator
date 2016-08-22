@@ -116,9 +116,35 @@ namespace CalculatorProject
 
         private void buttonOfEquals_Click(object sender, EventArgs e)
         {
+            Operations operationsObject = new Operations();
             /* get string of inputBox1 and do opeartion*/
-
-
+            try
+            {
+                if (inputBox1.Text.Contains("*"))
+                {
+                    string[] inputNumbers = inputBox1.Text.Split('*');
+                    outputBox.Text = operationsObject.multiplication(inputNumbers[0], inputNumbers[1]);
+                }
+                if (inputBox1.Text.Contains("+"))
+                {
+                    string[] inputNumbers = inputBox1.Text.Split('+');
+                    outputBox.Text = operationsObject.addition(inputNumbers[0], inputNumbers[1]);
+                }
+                if (inputBox1.Text.Contains("-"))
+                {
+                    string[] inputNumbers = inputBox1.Text.Split('-');
+                    outputBox.Text = operationsObject.subtraction(inputNumbers[0], inputNumbers[1]);
+                }
+                if (inputBox1.Text.Contains("/"))
+                {
+                    string[] inputNumbers = inputBox1.Text.Split('/');
+                    outputBox.Text = operationsObject.division(inputNumbers[0], inputNumbers[1]);
+                }
+            }
+            catch (Exception expection)
+            {
+                outputBox.Text = "INVALID";
+            }
         }
 
         
