@@ -125,7 +125,7 @@ namespace CalculatorProject
                     string[] inputNumbers = inputBox1.Text.Split('*');
                     outputBox.Text = operationsObject.multiplication(inputNumbers[0], inputNumbers[1]);
                 }
-                /*if (inputBox1.Text.Contains("+"))
+                if (inputBox1.Text.Contains("+"))
                 {
                     string[] inputNumbers = inputBox1.Text.Split('+');
                     outputBox.Text = operationsObject.addition(inputNumbers[0], inputNumbers[1]);
@@ -139,7 +139,7 @@ namespace CalculatorProject
                 {
                     string[] inputNumbers = inputBox1.Text.Split('/');
                     outputBox.Text = operationsObject.division(inputNumbers[0], inputNumbers[1]);
-                }*/
+                }
             }
             catch (Exception expection)
             {
