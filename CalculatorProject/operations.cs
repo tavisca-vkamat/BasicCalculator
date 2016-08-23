@@ -30,5 +30,16 @@ namespace CalculatorProject
                 return "Invalid number ! ";
 
         }
+        public string subtraction(string number1, string number2)
+        {
+            if (validateNumbers(number1, number2))
+            {
+                string Total = Convert.ToString(int.Parse(number1) - int.Parse(number2));
+                return Total;
+            }
+            else
+                return "please enter no ";
+
+        }
     }
 }

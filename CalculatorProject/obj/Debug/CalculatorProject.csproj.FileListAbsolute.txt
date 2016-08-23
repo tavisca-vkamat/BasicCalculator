@@ -10,3 +10,6 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorProject\Calculat
 D:\smurkar\CalculatorProject\bin\Debug\CalculatorProject.exe.config
 D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.exe
 D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\mshinde\Desktop\New folder\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\mshinde\Desktop\New folder\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\mshinde\Desktop\New folder\CalculatorProject\obj\Debug\CalculatorProject.pdb
