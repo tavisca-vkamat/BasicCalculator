@@ -24,7 +24,7 @@ namespace CalculatorProject
         {
             if (validateNumbers(First_number, Second_number))
             {
-                string result = Convert.ToString(int.Parse(First_number) * int.Parse(Second_number));
+                string result = Convert.ToString(double.Parse(First_number) * double.Parse(Second_number));
                 return result;
             }
             else
@@ -32,11 +32,16 @@ namespace CalculatorProject
 
         }
 
-        public string Addition(String First_string, String Second_string)
+        public string Addition(String First_number, String Second_number)
         {
-            string result = Convert.ToString(double.Parse(First_string) + double.Parse(Second_string));
+            if (validateNumbers(First_number, Second_number))
+            {
+                string result = Convert.ToString(double.Parse(Second_number) + double.Parse(Second_number));
 
             return result;
+            }
+            else
+                return "Invalid number ! ";
         }
 
 
