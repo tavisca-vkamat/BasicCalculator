@@ -41,5 +41,28 @@ namespace CalculatorProject
                 return "please enter no ";
 
         }
+
+
+        public string division(string First_number, string Second_number)
+        {
+            if (validateNumbers(First_number, Second_number))
+            {
+                if (double.Parse(First_number) == 0)
+                {
+                    return "0";
+                }
+                if (double.Parse(Second_number) == 0)
+                {
+                    return "Invalid";
+                }
+                string result = Convert.ToString(double.Parse(First_number) / double.Parse(Second_number));
+                return result;
+            }
+
+            else
+                return "Invalid";
+        }
+
+
     }
 }
