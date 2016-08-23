@@ -13,3 +13,15 @@ D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.pdb
 D:\MayurCalcGui_New\CalculatorProject\bin\Debug\CalculatorProject.exe.config
 D:\MayurCalcGui_New\CalculatorProject\obj\Debug\CalculatorProject.exe
 D:\MayurCalcGui_New\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\mshinde\Desktop\New folder\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\mshinde\Desktop\New folder\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\mshinde\Desktop\New folder\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Newcal\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.csprojResolveAssemblyReference.cache
+C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.CalculatorForm.resources
+C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
+C:\Newcal\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Newcal\CalculatorProject\bin\Debug\CalculatorProject.pdb
