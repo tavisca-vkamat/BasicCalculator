@@ -10,3 +10,6 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorProject\Calculat
 D:\smurkar\CalculatorProject\bin\Debug\CalculatorProject.exe.config
 D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.exe
 D:\smurkar\CalculatorProject\obj\Debug\CalculatorProject.pdb
+D:\MayurCalcGui_New\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+D:\MayurCalcGui_New\CalculatorProject\obj\Debug\CalculatorProject.exe
+D:\MayurCalcGui_New\CalculatorProject\obj\Debug\CalculatorProject.pdb
