@@ -34,9 +34,9 @@ namespace CalculatorProject
 
         public string Addition(String First_string, String Second_string)
         {
-            string result = string.Format(double.Parse(First_string) + double.Parse(Second_string));
+            string result = Convert.ToString(double.Parse(First_string) + double.Parse(Second_string));
 
-            return "";
+            return result;
         }
 
 
