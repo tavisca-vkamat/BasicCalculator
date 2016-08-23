@@ -19,6 +19,7 @@ namespace CalculatorProject
         }
         /* addition subtraction multiplication division*/
 
+
         public string multiplication(string First_number, string Second_number)
         {
             if (validateNumbers(First_number, Second_number))
@@ -30,4 +31,18 @@ namespace CalculatorProject
                 return "Invalid number ! ";
 
         }
+
+        public string Addition(String First_string, String Second_string)
+        {
+            string result = string.Format(double.Parse(First_string) + double.Parse(Second_string));
+
+            return "";
+        }
+
+
+
+    }
+
+
+
     }
