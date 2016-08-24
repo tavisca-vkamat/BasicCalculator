@@ -125,15 +125,13 @@ namespace CalculatorProject
                     string[] inputNumbers = inputBox1.Text.Split('*');
                     outputBox.Text = operationsObject.multiplication(inputNumbers[0], inputNumbers[1]);
                 }
-<<<<<<< HEAD
+
                 if (inputBox1.Text.Contains("+"))
                 {
                     string[] inputNumbers = inputBox1.Text.Split('+');
                     outputBox.Text = operationsObject.addition(inputNumbers[0], inputNumbers[1]);
                 }
-=======
-                
->>>>>>> b132cc7cf327d2a88b9dd8ca83480c2cc70a2eb9
+
                 if (inputBox1.Text.Contains("-"))
                 {
                     string[] inputNumbers = inputBox1.Text.Split('-');
@@ -145,15 +143,14 @@ namespace CalculatorProject
                     string[] inputNumbers = inputBox1.Text.Split('/');
                     outputBox.Text = operationsObject.division(inputNumbers[0], inputNumbers[1]);
                 }
-<<<<<<< HEAD
-=======
-                /*if (inputBox1.Text.Contains("+"))
+
+                if (inputBox1.Text.Contains("+"))
                 {
                     string[] inputNumbers = inputBox1.Text.Split('+');
                     outputBox.Text = operationsObject.addition(inputNumbers[0], inputNumbers[1]);
                 }
-                */
->>>>>>> b132cc7cf327d2a88b9dd8ca83480c2cc70a2eb9
+                
+
             }
             catch (Exception expection)
             {

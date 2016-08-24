@@ -17,7 +17,7 @@ namespace CalculatorProject
 
             return one && two;
         }
-        /* addition subtraction multiplication division*/
+        
 
         public string multiplication(string First_number, string Second_number)
         {
