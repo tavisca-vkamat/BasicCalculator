@@ -19,6 +19,7 @@ namespace CalculatorProject
         }
         
 
+
         public string multiplication(string First_number, string Second_number)
         {
             if (validateNumbers(First_number, Second_number))
@@ -30,6 +31,7 @@ namespace CalculatorProject
                 return "Invalid number ! ";
 
         }
+
         public string subtraction(string number1, string number2)
         {
             if (validateNumbers(number1, number2))
@@ -73,6 +75,12 @@ namespace CalculatorProject
                 return "Invalid number ! ";
 
         }
+
+
+    }
+
+
+
 
     }
 }
