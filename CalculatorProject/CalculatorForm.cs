@@ -114,6 +114,11 @@ namespace CalculatorProject
             inputBox1.Text = inputBox1.Text + "0";
         }
 
+        private void buttonOfDecimal_Click(object sender, EventArgs e)
+        {
+            inputBox1.Text = inputBox1.Text + ".";
+        }
+
         private void buttonOfEquals_Click(object sender, EventArgs e)
         {
             Operations operationsObject = new Operations();
@@ -152,7 +157,7 @@ namespace CalculatorProject
                 
 
             }
-            catch (Exception expection)
+            catch (Exception exception)
             {
                 outputBox.Text = "INVALID";
             }
@@ -160,6 +165,6 @@ namespace CalculatorProject
 
         }
 
-
+      
     }
 }

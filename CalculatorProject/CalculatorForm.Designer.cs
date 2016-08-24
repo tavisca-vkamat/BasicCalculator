@@ -48,6 +48,7 @@
             this.inputBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.buttonOfClear = new System.Windows.Forms.Button();
+            this.buttonOfDecimal = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -241,7 +242,6 @@
             this.inputBox1.Name = "inputBox1";
             this.inputBox1.Size = new System.Drawing.Size(188, 26);
             this.inputBox1.TabIndex = 0;
-           
             // 
             // label2
             // 
@@ -264,11 +264,22 @@
             this.buttonOfClear.UseVisualStyleBackColor = true;
             this.buttonOfClear.Click += new System.EventHandler(this.buttonOfClear_Click);
             // 
+            // buttonOfDecimal
+            // 
+            this.buttonOfDecimal.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonOfDecimal.Location = new System.Drawing.Point(142, 266);
+            this.buttonOfDecimal.Name = "buttonOfDecimal";
+            this.buttonOfDecimal.Size = new System.Drawing.Size(44, 29);
+            this.buttonOfDecimal.TabIndex = 0;
+            this.buttonOfDecimal.Text = ".";
+            this.buttonOfDecimal.Click += new System.EventHandler(this.buttonOfDecimal_Click);
+            // 
             // CalculatorForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(372, 413);
+            this.Controls.Add(this.buttonOfDecimal);
             this.Controls.Add(this.buttonOfClear);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.inputBox1);
@@ -290,7 +301,7 @@
             this.Controls.Add(this.buttonOfTwo);
             this.Controls.Add(this.buttonOfOne);
             this.Name = "CalculatorForm";
-            this.Text = "Form1";
+            this.Text = "Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -318,6 +329,7 @@
         private System.Windows.Forms.TextBox inputBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button buttonOfClear;
+        private System.Windows.Forms.Button buttonOfDecimal;
     }
 }
 

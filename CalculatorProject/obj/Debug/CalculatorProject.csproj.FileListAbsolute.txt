@@ -25,3 +25,11 @@ C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.res
 C:\Newcal\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
 C:\Newcal\CalculatorProject\bin\Debug\CalculatorProject.exe
 C:\Newcal\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\obj\Debug\CalculatorProject.CalculatorForm.resources
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\vkamat\Documents\Visual Studio 2015\Projects\BasicCalculator\CalculatorProject\obj\Debug\CalculatorProject.pdb
