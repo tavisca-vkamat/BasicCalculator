@@ -17,7 +17,7 @@ namespace CalculatorProject
 
             return one && two;
         }
-        
+
 
 
         public string multiplication(string First_number, string Second_number)
@@ -83,4 +83,4 @@ namespace CalculatorProject
 
 
     }
-}
+
